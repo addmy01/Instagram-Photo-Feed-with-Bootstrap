@@ -1,0 +1,16 @@
+.photo{
+    height: 150Px;
+    margin-bottom: 5px;
+    padding-top: 10px;
+}
+
+.main{
+    margin-left:25% ;
+    margin-right:25% ;
+}
+
+.border-0:focus{
+    color: blue!important;
+    outline: none!important;
+    box-shadow: none!important;
+}
